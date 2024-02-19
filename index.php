@@ -6,6 +6,7 @@
 -->
 <html>
 <?php include 'head.php'; ?>
+<?php include 'header.php'; ?>
 <!-- Body -->
 
 <body class="is-preload">

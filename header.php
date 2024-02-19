@@ -2,9 +2,7 @@
     <a href="index.html" class="title">Home</a>
     <nav>
         <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="generic.php" class="active">Generic</a></li>
-            <li><a href="elements.php">Elements</a></li>
+            <li><a href="https://rehad.id" class="active">Home</a></li>
         </ul>
     </nav>
 </header>
