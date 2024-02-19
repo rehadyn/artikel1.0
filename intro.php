@@ -1,28 +1,35 @@
 <section id="intro" class="wrapper style1 fullscreen fade-up">
   <div class="inner">
-    <h1>Si Penjilat dan si superpower</h1>
+    <h1>Sekelompok</h1>
     <p>
-      Dalam refleksi yang menarik, bukan semata penjilat yang muncul, tetapi yang hanya berani bersuara di balik
-      papan ketik.
-      <br><br>
-      Sangat menarik untuk dicermati bagaimana mereka menyusun konsep "diskusi" tanpa pernah mengajukan “diskusi”
-      atau menyampaikan pandangan secara langsung kepada instansi yang mereka kritisi atau sub-instansi sebagai
-      penengah. Meskipun setiap saat, instansi tersebut senantiasa membuka pintu untuk berdiskusi.
-      <br><br>
-      Lebih menarik lagi, apakah mereka pernah memberikan penjelasan atau klarifikasi mengenai tulisan mereka,
-      yang menurut pandangan saya, terasa sebagai bentuk serangan terhadap instansi yang menjadi landasan
-      eksistensi mereka? Sampai sekarang, sepertinya tidak ada upaya yang dilakukan untuk menjelaskan pandangan
-      mereka. Ironisnya, tulisan mereka tidak diterima dengan baik oleh orang tua mereka, bahkan cenderung membuat
-      sakit hati. Bagaimana tidak, mengatakan secara personal, bukan lagi instansi. Saya merasa mereka tidak memiliki
-      keberanian untuk menghadapi dan menjelaskan pandangan mereka,
-      sebab yang mereka kuasai hanya menjilat di balik papan ketik, tanpa berani melangkah ke hadapan.
-      <br><br>
-      Dengan ini, semoga kata-kata ini dapat dianggap sebagai ungkapan formal yang mencerminkan kekhawatiran
-      terhadap ketidakberanian untuk berdialog secara langsung dan konstruktif. Semoga pula terbuka pintu
-      keberanian untuk memberikan penjelasan yang mendalam mengenai pandangan yang telah mereka sampaikan.
+      <!-- tambahkan paragraf -->
+      Di sudut kota yang teduh, terdapat sekelompok yang lebih suka bersembunyi di balik papan ketik daripada
+      menghadapi dunia nyata. Aku, sebagai penikmat peristiwa dari kejauhan, tak dapat mengabaikan cerita menarik ini.
+      Mereka bukanlah penjilat semata, melainkan para pengkritik tajam yang senang berlindung di balik layar.
       <br>
+      Menariknya, mereka enggan berdialog langsung dengan orang yang menjadi sasaran kritik mereka, meskipun kesempatan
+      diskusi selalu terbuka lebar. Mereka lebih suka mengungkapkan ketidaksetujuan secara terselubung di ranah maya.
       <br>
+      Saat aku memperhatikan keberanian mereka di balik papan ketik, terbersit pertanyaan apakah mereka pernah
+      memberikan penjelasan atau klarifikasi terkait tulisan tajam mereka. Bagiku, tulisan mereka terasa seperti
+      serangan terbuka terhadap individu yang menjadi objek kritik mereka, tapi entah mengapa, mereka memilih untuk
+      tetap diam.
+      <br>
+      Yang membuat cerita semakin menarik adalah fakta bahwa tulisan mereka tidak hanya tidak diterima baik oleh
+      individu yang dikritik, tetapi juga oleh orang tua mereka sendiri. Ironisnya, sang pengkritik tampaknya tidak
+      memiliki keberanian untuk menjelaskan pandangannya, bahkan kepada orang-orang terdekat yang merasa tersakiti.
+      <br>
+      Seharusnya, seseorang yang berani menyuarakan pandangan kritis juga harus berani berdialog dan menjelaskan alasan
+      di balik pemikiran mereka. Namun, para pengkritik ini sepertinya lebih nyaman di dunia maya daripada di dunia
+      nyata. Keengganan mereka untuk keluar dari bayangan dan memberikan penjelasan kepada orang-orang terdekat
+      menciptakan ketidakjelasan yang mendalam.
+      <br>
+      Dengan ini, catatan ini mencerminkan kekhawatiran atas ketidakberanian untuk berdialog secara langsung dan
+      konstruktif. Semoga suatu hari nanti, mereka akan membuka pintu keberanian untuk menjelaskan pandangan mereka
+      secara mendalam. Mungkin, dengan berbicara terbuka, mereka dapat memahami bahwa dialog langsung bisa membuka pintu
+      ke pemahaman yang lebih baik dan meredakan konflik yang ada di antara mereka dan orang-orang terdekat mereka.
       <!-- tambahkan quote -->
+      <br>
 
     <blockquote>
       <p>
